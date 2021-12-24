@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henasivenom
-- 👀 I’m interested in WEB DEVELOPMET
+- 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on OPEN SOURCE
 - 📫 How to reach me ... [Instagram @henasi_venom](https://www.instagram.com/henasi_venom/)
